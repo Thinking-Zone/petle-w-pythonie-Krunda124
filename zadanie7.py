@@ -5,7 +5,7 @@ zgadtwanie = True
 
 while zgadywanie:
   odpowiedz = input("Czy pada? (t/n) ")
-  if odpowiedz = pada:
+  if odpowiedz == pada:
     print("zgadłeś! brawo!") 
     zgadywanie = False 
   else:
